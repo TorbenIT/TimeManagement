@@ -1,0 +1,10 @@
+E:\Informatik\Software\C#\Windows Forms\TimeManager\TimeManager\bin\Debug\TimeManager.exe.config
+E:\Informatik\Software\C#\Windows Forms\TimeManager\TimeManager\bin\Debug\TimeManager.exe
+E:\Informatik\Software\C#\Windows Forms\TimeManager\TimeManager\bin\Debug\TimeManager.pdb
+E:\Informatik\Software\C#\Windows Forms\TimeManager\TimeManager\obj\Debug\TimeManager.csprojAssemblyReference.cache
+E:\Informatik\Software\C#\Windows Forms\TimeManager\TimeManager\obj\Debug\TimeManager.Form1.resources
+E:\Informatik\Software\C#\Windows Forms\TimeManager\TimeManager\obj\Debug\TimeManager.Properties.Resources.resources
+E:\Informatik\Software\C#\Windows Forms\TimeManager\TimeManager\obj\Debug\TimeManager.csproj.GenerateResource.cache
+E:\Informatik\Software\C#\Windows Forms\TimeManager\TimeManager\obj\Debug\TimeManager.csproj.CoreCompileInputs.cache
+E:\Informatik\Software\C#\Windows Forms\TimeManager\TimeManager\obj\Debug\TimeManager.exe
+E:\Informatik\Software\C#\Windows Forms\TimeManager\TimeManager\obj\Debug\TimeManager.pdb
